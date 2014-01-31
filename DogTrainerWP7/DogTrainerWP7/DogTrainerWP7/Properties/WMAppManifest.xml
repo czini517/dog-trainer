@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{5408f02b-1997-4e36-bf20-009f8a354bc5}" Title="Dog Trainer" RuntimeType="Silverlight" Version="1.0.0.1" Genre="apps.normal" Author="DogTrainerWP7 author" Description="Sample description" Publisher="DogTrainerWP7">
+	<IconPath IsRelative="true" IsResource="false">Icons\dog62x62.png</IconPath>
+	<Capabilities>
+    <Capability Name="ID_CAP_NETWORKING" />
+    <Capability Name="ID_CAP_PHONEDIALER" />
+    <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+    <Capability Name="ID_CAP_IDENTITY_USER" />
+    <Capability Name="ID_CAP_MEDIALIB" />
+	</Capabilities>
+	<Tasks>
+	  <DefaultTask Name="_default" NavigationPage="/Views/MainView.xaml" />
+	</Tasks>
+	<Tokens>
+	  <PrimaryToken TokenID="DogTrainerWP7Token" TaskName="_default">
+		<TemplateType5>
+		  <BackgroundImageURI IsRelative="true" IsResource="false">Icons\dog173x173.png</BackgroundImageURI>
+		  <Count>0</Count>
+		  <Title>Dog Trainer</Title>
+		</TemplateType5>
+	  </PrimaryToken>
+	</Tokens>
+  </App>
+</Deployment>

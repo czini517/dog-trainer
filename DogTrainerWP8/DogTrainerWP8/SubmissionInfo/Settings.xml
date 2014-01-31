@@ -1,0 +1,8 @@
+<MarketplaceDetails>
+  <SmallAppTile>dogplain300x300.png</SmallAppTile>
+  <LargeAppTile>dog173x173.png</LargeAppTile>
+  <PCAppTile>dog200x200.png</PCAppTile>
+  <ScreenShots>ss1.png;ss2.png;ss3.png;;;;;;</ScreenShots>
+  <ScreenShotsWXGA>ss2_hd.png;ss3_hd.png;ss1_hd.png;;;;;;</ScreenShotsWXGA>
+  <ScreenShots720P>;;;;;;;;</ScreenShots720P>
+</MarketplaceDetails>

@@ -1,0 +1,6 @@
+﻿Code version: 6.1.37.86
+Assembly name Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553 mvid {e70f558d-5f26-4f0c-bd0f-424ff6ea3076}
+* ref System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {fc361153-916e-4820-a397-fda43751b11f}
+* ref mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {aaa06add-dedb-4be4-8b0f-8d5a1fc6a6b2}

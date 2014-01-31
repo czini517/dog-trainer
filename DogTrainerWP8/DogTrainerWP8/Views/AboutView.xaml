@@ -1,0 +1,82 @@
+﻿<phone:PhoneApplicationPage 
+	x:Class="DogTrainerWP8.Views.AboutView"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+	xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+	FontFamily="{StaticResource PhoneFontFamilyNormal}"
+	FontSize="{StaticResource PhoneFontSizeNormal}"
+	Foreground="{StaticResource PhoneForegroundBrush}"
+	SupportedOrientations="Portrait" Orientation="Portrait"
+	mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+	shell:SystemTray.IsVisible="False"
+	toolkit:TiltEffect.IsTiltEnabled="True">
+
+	<!--LayoutRoot is the root grid where all page content is placed-->
+	<Grid x:Name="LayoutRoot" Background="{StaticResource PhoneBackgroundBrush}">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<!--TitlePanel contains the name of the application and page title-->
+		<StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+			<TextBlock x:Name="ApplicationTitle" Text="DOG TRAINER" Style="{StaticResource PhoneTextNormalStyle}" FontWeight="Bold" Foreground="DeepSkyBlue"/>
+			<TextBlock x:Name="PageTitle" Text="About" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+		</StackPanel>
+
+		<!--ContentPanel - place additional content here-->
+		<Grid x:Name="ContentPanel"
+			  Grid.Row="1"
+			  Margin="12,0,12,0">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="180" />
+				<ColumnDefinition Width="*"/>
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="160" />
+				<RowDefinition Height="*"/>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="Auto"/>
+				<RowDefinition Height="100" />
+			</Grid.RowDefinitions>
+			<Image x:Name="Logo" Source="/DogTrainerWP8;component/Icons/dog99x99_inv.png" Width="120" Height="120" Margin="6" />
+			<StackPanel Grid.Column="1" Margin="12">
+				<TextBlock x:Name="AboutHeader" Height="110">
+					<Run FontSize="38" Foreground="DeepSkyBlue">Dog Trainer</Run><LineBreak/>
+					<Run>Version: 2.0.0.0</Run><LineBreak/>
+					<Run FontSize="22">Author: Linda Czinner</Run><LineBreak/>
+				</TextBlock>
+				<HyperlinkButton Content="lindaczinner.wordpress.com" Name="hyperlinkButton3" FontSize="18"
+					NavigateUri="http://lindaczinner.wordpress.com" TargetName="_anything" Foreground="DeepSkyBlue" />
+			</StackPanel>
+			<TextBlock x:Name="AboutDescription" Grid.Row="1" Grid.ColumnSpan="2" Padding="6" TextWrapping="Wrap">
+				<Run>Dog Trainer is an easy-to-use tool for training your pet, either with a clicker or a whistle. There are several clicker training tutorial videos included in the app. You can choose from 2 different clicker sounds, and 5 level of frequencies.</Run><LineBreak/>
+				<LineBreak/>
+			</TextBlock>
+			<StackPanel Grid.Row="2" Grid.ColumnSpan="2" Margin="6">
+				<TextBlock>
+					<Run>Find out more about:</Run>
+				</TextBlock>
+				<HyperlinkButton Margin="0,6" Content="clicker training" Height="30" Name="hyperlinkButton1" Width="200" 
+					NavigateUri="http://howto.wired.com/wiki/Train_your_dog_using_clicker-training_method." TargetName="_anything" />
+				<HyperlinkButton Margin="0,6" Content="whistle training" Height="30" Name="hyperlinkButton2" Width="200" 
+					NavigateUri="http://www.ehow.com/how_4866169_train-dog-dog-whistle.html" TargetName="_anything" />
+			</StackPanel>
+			<StackPanel Grid.Row="3" Grid.ColumnSpan="2" Margin="6">
+				<TextBlock><Run>You can send feedback to:</Run></TextBlock>
+				<HyperlinkButton x:Name="SendMail" Foreground="{StaticResource PhoneAccentBrush}">linda_czinner_dev@outlook.com</HyperlinkButton>
+			</StackPanel>
+			<Button x:Name="CreateReview" 
+					Grid.Row="4" 
+					Grid.ColumnSpan="2" 
+					Margin="6" 
+					Content="Rate the application" 
+					Width="310" />
+		</Grid>
+	</Grid>
+
+</phone:PhoneApplicationPage>

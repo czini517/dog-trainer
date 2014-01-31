@@ -1,0 +1,62 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/f:App.xaml.cs" caret="23" fromTop="1" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Models/f:SoundType.cs" caret="93" fromTop="6" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Models/f:Sound.cs" caret="49" fromTop="2" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:TrialView.xaml" caret="1957" fromTop="42" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Properties/f:WMAppManifest.xml" caret="570" fromTop="6" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Utils/f:StorageHelper.cs" caret="561" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:TrialViewModel.cs" caret="242" fromTop="15" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/f:App.xaml" caret="558" fromTop="13" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:MainView.xaml.cs" caret="416" fromTop="16" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:ClickerView.xaml" caret="1973" fromTop="16" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:ClickerView.xaml.cs" caret="409" fromTop="15" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:MainViewModel.cs" caret="189" fromTop="8" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:MainView.xaml" caret="941" fromTop="14" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:AboutViewModel.cs" caret="435" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:SettingsView.xaml" caret="980" fromTop="14" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:SettingsView.xaml.cs" caret="770" fromTop="26" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml" caret="2601" fromTop="20" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml.cs" caret="443" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/f:Constants.cs" caret="639" fromTop="19" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Controls/f:WhistleButton.cs" caret="792" fromTop="22" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Utils/f:ResourceHelper.cs" caret="495" fromTop="20" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:SettingsViewModel.cs" caret="995" fromTop="14" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:AboutView.xaml" caret="994" fromTop="17" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/f:AppBootstrapper.cs" caret="1403" fromTop="19" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="0" fromTop="0" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="148" fromTop="4" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="1623" fromTop="21" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/f:Constants.cs" caret="799" fromTop="23" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:SettingsViewModel.cs" caret="2079" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:SettingsView.xaml.cs" caret="770" fromTop="26" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:SettingsView.xaml" caret="980" fromTop="14" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml.cs" caret="609" fromTop="17" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml.cs" caret="447" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml.cs" caret="447" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="1732" fromTop="24" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="1732" fromTop="27" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="877" fromTop="7" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml.cs" caret="443" fromTop="18" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:WhistleView.xaml" caret="2601" fromTop="20" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:SettingsViewModel.cs" caret="4087" fromTop="21" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="1844" fromTop="29" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="833" fromTop="3" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="1623" fromTop="20" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="269" fromTop="11" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="877" fromTop="4" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:WhistleViewModel.cs" caret="1652" fromTop="30" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:AboutView.xaml" caret="1901" fromTop="10" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:AboutView.xaml" caret="3129" fromTop="21" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:Views/f:AboutView.xaml" caret="2808" fromTop="15" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="299" fromTop="8" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="0" fromTop="0" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/f:AppBootstrapper.cs" caret="1510" fromTop="22" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="337" fromTop="14" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="269" fromTop="11" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="671" fromTop="23" />
+    <File id="CF6D78F8-7B24-45B9-9B70-B0381E2343DD/d:ViewModels/f:ClickerViewModel.cs" caret="712" fromTop="25" />
+  </RecentEdits>
+</RecentFiles>

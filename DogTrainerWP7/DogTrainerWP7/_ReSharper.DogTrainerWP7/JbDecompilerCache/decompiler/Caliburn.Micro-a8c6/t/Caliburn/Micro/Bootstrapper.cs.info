@@ -1,0 +1,14 @@
+﻿Code version: 6.1.37.86
+Assembly name Caliburn.Micro, Version=1.3.1.0, Culture=neutral, PublicKeyToken=null mvid {1b8f5fdb-d4ad-42a5-abef-e8b1c9f57bff}
+* ref mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {ff4a6d33-0c4c-4038-ad2e-801c0ab86b0f}
+* ref System.Windows, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {ee67bb21-f20c-4f5a-9bf1-49a9391c8472}
+* ref System.Windows.Interactivity, Version=3.8.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  mvid {64f8f5d1-a658-42a7-95de-c44551e7b70f}
+* ref System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {b33a97fe-aa08-4ffc-831c-ba4362e20a36}
+* ref Microsoft.Phone, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e
+  mvid {f9aeda98-2879-4ed3-995f-d7bb1a6bba7c}
+* ref System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+  mvid {4703a40f-1613-4f5c-b355-8659c020f715}
